@@ -1,0 +1,14 @@
+
+if (a >= b)
+{ 	
+return 0; 
+} //check if a is greater than or equal to b
+
+// This is a comment line that should be ignored
+int main() {
+    float x = 3.14;
+    int counter = 0;
+    while (counter < 10) {
+        counter++;
+    }
+}
